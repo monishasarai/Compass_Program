@@ -1,0 +1,42 @@
+{
+  "admin-001": {
+    "id": "admin-001",
+    "name": "Platform Administrator",
+    "email": "admin@valid8.ai",
+    "password_hash": "$2b$12$m/4cBOZ7he3s9caNLla9NOZDC2FdUW0hDWyMpB7AHBD7STQgP6Kna",
+    "role": "admin",
+    "createdAt": "2026-01-15T09:00:00Z",
+    "totalVerifications": 147,
+    "tokensUsed": 462017
+  },
+  "user-001": {
+    "id": "user-001",
+    "name": "Sarah Connor",
+    "email": "sarah@enterprise.io",
+    "password_hash": "$2b$12$phWEmgt/uQ8a5sAIICLAtejS.UWi.thdPABBJc81scn.euowHBYE2",
+    "role": "user",
+    "createdAt": "2026-02-01T14:30:00Z",
+    "totalVerifications": 28,
+    "tokensUsed": 92100
+  },
+  "user-59032d43": {
+    "id": "user-59032d43",
+    "name": "Suite Tester Updated",
+    "email": "testuser_suite@valid8.ai",
+    "password_hash": "$2b$12$/25Neeq83ohTgkf9JdwHD.INEzUbDn2RAfIyCgJsSu2RPO.9gL3Tm",
+    "role": "user",
+    "createdAt": "2026-08-05T19:41:10.069821Z",
+    "totalVerifications": 0,
+    "tokensUsed": 0
+  },
+  "user-04991386": {
+    "id": "user-04991386",
+    "name": "Monisha Sarai",
+    "email": "monishasarai25@gmail.com",
+    "password_hash": "$2b$12$HhhQHDwdBfgJaw8aupdY2.v53txin5GXDMeeYVU9oDHSXG.Zn6TXO",
+    "role": "user",
+    "createdAt": "2026-08-05T19:56:20.351908Z",
+    "totalVerifications": 0,
+    "tokensUsed": 0
+  }
+}

@@ -1,0 +1,155 @@
+{
+  "gt-doc-001": {
+    "doc_id": "gt-doc-001",
+    "title": "Valid8 Enterprise Security & Compliance Policy 2026",
+    "category": "Policy",
+    "version": "2.4",
+    "upload_time": "2026-01-10T10:00:00Z",
+    "source_trust_score": 0.99,
+    "chunk_count": 5
+  },
+  "gt-doc-002": {
+    "doc_id": "gt-doc-002",
+    "title": "BioGen AI Clinical Trial Results (Phase III - NeuroVax)",
+    "category": "Medical Research",
+    "version": "1.0",
+    "upload_time": "2026-02-14T08:30:00Z",
+    "source_trust_score": 0.97,
+    "chunk_count": 3
+  },
+  "gt-doc-003": {
+    "doc_id": "gt-doc-003",
+    "title": "Global Tech Corp Q4 2025 Financial Statement & Revenue Report",
+    "category": "Financial Statement",
+    "version": "1.1",
+    "upload_time": "2026-01-28T16:00:00Z",
+    "source_trust_score": 0.98,
+    "chunk_count": 5
+  },
+  "gt-doc-004": {
+    "doc_id": "gt-doc-004",
+    "title": "Quantum Computing Architecture & QPU Specs 2026",
+    "category": "Tech Specs",
+    "version": "3.0",
+    "upload_time": "2026-03-01T12:00:00Z",
+    "source_trust_score": 0.96,
+    "chunk_count": 3
+  },
+  "gt-doc-68e868": {
+    "doc_id": "gt-doc-68e868",
+    "title": "Wikipedia: Quantum computing",
+    "category": "Wikipedia Live Data",
+    "version": "1.0",
+    "upload_time": "2026-07-31T18:16:37.658446Z",
+    "source_trust_score": 0.98,
+    "chunk_count": 3
+  },
+  "gt-doc-7ef71d": {
+    "doc_id": "gt-doc-7ef71d",
+    "title": "Wikipedia: Quantum computing",
+    "category": "Wikipedia Live Data",
+    "version": "1.0",
+    "upload_time": "2026-07-31T18:17:33.996955Z",
+    "source_trust_score": 0.98,
+    "chunk_count": 3
+  },
+  "gt-doc-b7c608": {
+    "doc_id": "gt-doc-b7c608",
+    "title": "Wikipedia: Quantum computing",
+    "category": "Wikipedia Live Data",
+    "version": "1.0",
+    "upload_time": "2026-07-31T18:23:21.027989Z",
+    "source_trust_score": 0.98,
+    "chunk_count": 3
+  },
+  "gt-doc-c391fe": {
+    "doc_id": "gt-doc-c391fe",
+    "title": "Wikipedia: Quantum computing",
+    "category": "Wikipedia Live Data",
+    "version": "1.0",
+    "upload_time": "2026-07-31T18:25:36.579832Z",
+    "source_trust_score": 0.98,
+    "chunk_count": 3
+  },
+  "gt-doc-a965bd": {
+    "doc_id": "gt-doc-a965bd",
+    "title": "Wikipedia: Quantum computing",
+    "category": "Wikipedia Live Data",
+    "version": "1.0",
+    "upload_time": "2026-07-31T18:29:05.441084Z",
+    "source_trust_score": 0.98,
+    "chunk_count": 3
+  },
+  "gt-doc-5e8469": {
+    "doc_id": "gt-doc-5e8469",
+    "title": "Wikipedia: Quantum computing",
+    "category": "Wikipedia Live Data",
+    "version": "1.0",
+    "upload_time": "2026-07-31T18:29:34.366302Z",
+    "source_trust_score": 0.98,
+    "chunk_count": 3
+  },
+  "gt-doc-ecae1e": {
+    "doc_id": "gt-doc-ecae1e",
+    "title": "Wikipedia: Quantum computing",
+    "category": "Wikipedia Live Data",
+    "version": "1.0",
+    "upload_time": "2026-07-31T18:34:32.913501Z",
+    "source_trust_score": 0.98,
+    "chunk_count": 3
+  },
+  "gt-doc-6c7239": {
+    "doc_id": "gt-doc-6c7239",
+    "title": "Wikipedia: Quantum computing",
+    "category": "Wikipedia Live Data",
+    "version": "1.0",
+    "upload_time": "2026-07-31T18:36:17.551287Z",
+    "source_trust_score": 0.98,
+    "chunk_count": 3
+  },
+  "gt-doc-d4e01c": {
+    "doc_id": "gt-doc-d4e01c",
+    "title": "Test AI Ethics Guidelines",
+    "category": "Policy",
+    "version": "1.0",
+    "upload_time": "2026-08-05T19:25:55.864872Z",
+    "source_trust_score": 0.98,
+    "chunk_count": 1
+  },
+  "gt-doc-c72dec": {
+    "doc_id": "gt-doc-c72dec",
+    "title": "Test AI Ethics Guidelines",
+    "category": "Policy",
+    "version": "1.0",
+    "upload_time": "2026-08-05T19:26:33.327686Z",
+    "source_trust_score": 0.98,
+    "chunk_count": 1
+  },
+  "gt-doc-a873af": {
+    "doc_id": "gt-doc-a873af",
+    "title": "Test AI Ethics Guidelines",
+    "category": "Policy",
+    "version": "1.0",
+    "upload_time": "2026-08-05T19:27:03.945891Z",
+    "source_trust_score": 0.98,
+    "chunk_count": 1
+  },
+  "gt-doc-e25ac4": {
+    "doc_id": "gt-doc-e25ac4",
+    "title": "Test AI Ethics Guidelines",
+    "category": "Policy",
+    "version": "1.0",
+    "upload_time": "2026-08-05T19:27:45.111582Z",
+    "source_trust_score": 0.98,
+    "chunk_count": 1
+  },
+  "gt-doc-7cba05": {
+    "doc_id": "gt-doc-7cba05",
+    "title": "Test AI Ethics Guidelines",
+    "category": "Policy",
+    "version": "1.0",
+    "upload_time": "2026-08-05T19:41:15.556804Z",
+    "source_trust_score": 0.98,
+    "chunk_count": 1
+  }
+}
