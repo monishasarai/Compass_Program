@@ -1,0 +1,290 @@
+[
+  {
+    "chunk_id": "gt-doc-001-c1",
+    "doc_id": "gt-doc-001",
+    "doc_title": "Valid8 Enterprise Security & Compliance Policy 2026",
+    "content": "Valid8 Enterprise Policy v2.4 (Effective Jan 2026). 1. Data Encryption Standards: All customer data in transit must be encrypted using TLS 1.3 with AES-256-GCM cipher suites. Data at rest must utilize FIPS 140-3 validated KMS modules with 90-day automatic key rotation.",
+    "category": "Policy",
+    "metadata": {
+      "version": "2.4",
+      "index": 0
+    },
+    "citation_id": "[Valid8 Enterprise Security & Compliance Policy 2026 \u00a71]"
+  },
+  {
+    "chunk_id": "gt-doc-001-c2",
+    "doc_id": "gt-doc-001",
+    "doc_title": "Valid8 Enterprise Security & Compliance Policy 2026",
+    "content": "2. Authentication & MFA: Multi-Factor Authentication (MFA) via TOTP or FIDO2 WebAuthn hardware keys is mandatory for all employee accounts. Passwordless access is permitted only via certified Okta SSO endpoints.",
+    "category": "Policy",
+    "metadata": {
+      "version": "2.4",
+      "index": 1
+    },
+    "citation_id": "[Valid8 Enterprise Security & Compliance Policy 2026 \u00a72]"
+  },
+  {
+    "chunk_id": "gt-doc-001-c3",
+    "doc_id": "gt-doc-001",
+    "doc_title": "Valid8 Enterprise Security & Compliance Policy 2026",
+    "content": "3. Data Retention & Privacy: Audit logs are stored in immutable AWS S3 Glacier WORM buckets for exactly 7 years. User personal identifiable information (PII) must be purged within 30 days upon formal GDPR right-to-be-forgotten request.",
+    "category": "Policy",
+    "metadata": {
+      "version": "2.4",
+      "index": 2
+    },
+    "citation_id": "[Valid8 Enterprise Security & Compliance Policy 2026 \u00a73]"
+  },
+  {
+    "chunk_id": "gt-doc-001-c4",
+    "doc_id": "gt-doc-001",
+    "doc_title": "Valid8 Enterprise Security & Compliance Policy 2026",
+    "content": "4. Incident Response SLA: Critical Severity 1 security incidents must be acknowledged by SecOps within 15 minutes and contained within 2 hours. Root Cause Analysis (RCA) report must be published to executive stakeholders within 72 hours.",
+    "category": "Policy",
+    "metadata": {
+      "version": "2.4",
+      "index": 3
+    },
+    "citation_id": "[Valid8 Enterprise Security & Compliance Policy 2026 \u00a74]"
+  },
+  {
+    "chunk_id": "gt-doc-001-c5",
+    "doc_id": "gt-doc-001",
+    "doc_title": "Valid8 Enterprise Security & Compliance Policy 2026",
+    "content": "5. Vendor Risk Assessment: Third-party API providers (OpenAI, Anthropic, Gemini) must undergo semi-annual SOC 2 Type II audits and possess ISO 27001 certifications.",
+    "category": "Policy",
+    "metadata": {
+      "version": "2.4",
+      "index": 4
+    },
+    "citation_id": "[Valid8 Enterprise Security & Compliance Policy 2026 \u00a75]"
+  },
+  {
+    "chunk_id": "gt-doc-002-c1",
+    "doc_id": "gt-doc-002",
+    "doc_title": "BioGen AI Clinical Trial Results (Phase III - NeuroVax)",
+    "content": "BioGen NeuroVax-3 Phase III Clinical Trial Final Summary Report. Study Objective: Evaluate efficacy of NeuroVax-3 in slowing cognitive decline in early-stage Alzheimer's patients. Sample Size: 1,850 participants enrolled across 42 medical centers in North America and Europe. Participant age range: 60 to 82 years old (mean age 71.4).",
+    "category": "Medical Research",
+    "metadata": {
+      "version": "1.0",
+      "index": 0
+    },
+    "citation_id": "[BioGen AI Clinical Trial Results (Phase III - NeuroVax) \u00a71]"
+  },
+  {
+    "chunk_id": "gt-doc-002-c2",
+    "doc_id": "gt-doc-002",
+    "doc_title": "BioGen AI Clinical Trial Results (Phase III - NeuroVax)",
+    "content": "Primary Endpoint Results: At 78 weeks, treatment arm demonstrated a 34.2% reduction in clinical dementia rating sum of boxes (CDR-SB) compared to placebo (p < 0.001). Secondary Endpoints: Amyloid plaque clearance measured via PET scan showed a 68.5% reduction in brain amyloid burden at month 12.",
+    "category": "Medical Research",
+    "metadata": {
+      "version": "1.0",
+      "index": 1
+    },
+    "citation_id": "[BioGen AI Clinical Trial Results (Phase III - NeuroVax) \u00a72]"
+  },
+  {
+    "chunk_id": "gt-doc-002-c3",
+    "doc_id": "gt-doc-002",
+    "doc_title": "BioGen AI Clinical Trial Results (Phase III - NeuroVax)",
+    "content": "Safety Profile: Amyloid-Related Imaging Abnormalities (ARIA-E) occurred in 12.4% of treated patients (versus 1.8% placebo), of which 84% were asymptomatic and resolved within 8 weeks of temporary dosing suspension. FDA Approval Status: Fast-Track Designation granted by FDA in Nov 2025; BLA submission scheduled for Q3 2026.",
+    "category": "Medical Research",
+    "metadata": {
+      "version": "1.0",
+      "index": 2
+    },
+    "citation_id": "[BioGen AI Clinical Trial Results (Phase III - NeuroVax) \u00a73]"
+  },
+  {
+    "chunk_id": "gt-doc-003-c1",
+    "doc_id": "gt-doc-003",
+    "doc_title": "Global Tech Corp Q4 2025 Financial Statement & Revenue Report",
+    "content": "Global Tech Corp Q4 2025 Earnings Release. Consolidated Revenue: Q4 2025 total revenue reached $18.4 billion, representing a 21.5% YoY growth (compared to $15.15 billion in Q4 2024). Full year 2025 total revenue reached $67.8 billion.",
+    "category": "Financial Statement",
+    "metadata": {
+      "version": "1.1",
+      "index": 0
+    },
+    "citation_id": "[Global Tech Corp Q4 2025 Financial Statement & Revenue Report \u00a71]"
+  },
+  {
+    "chunk_id": "gt-doc-003-c2",
+    "doc_id": "gt-doc-003",
+    "doc_title": "Global Tech Corp Q4 2025 Financial Statement & Revenue Report",
+    "content": "Segment Breakdown: Cloud Infrastructure revenue was $8.2 billion (+31% YoY). AI Platform & SaaS solutions revenue was $4.7 billion (+45% YoY). Hardware & Devices was $5.5 billion (+2% YoY).",
+    "category": "Financial Statement",
+    "metadata": {
+      "version": "1.1",
+      "index": 1
+    },
+    "citation_id": "[Global Tech Corp Q4 2025 Financial Statement & Revenue Report \u00a72]"
+  },
+  {
+    "chunk_id": "gt-doc-003-c3",
+    "doc_id": "gt-doc-003",
+    "doc_title": "Global Tech Corp Q4 2025 Financial Statement & Revenue Report",
+    "content": "Net Income & Margin: Net Income for Q4 was $4.1 billion ($2.85 per diluted share), expanding operating margin to 28.4%. Free cash flow reached $5.6 billion for the quarter.",
+    "category": "Financial Statement",
+    "metadata": {
+      "version": "1.1",
+      "index": 2
+    },
+    "citation_id": "[Global Tech Corp Q4 2025 Financial Statement & Revenue Report \u00a73]"
+  },
+  {
+    "chunk_id": "gt-doc-003-c4",
+    "doc_id": "gt-doc-003",
+    "doc_title": "Global Tech Corp Q4 2025 Financial Statement & Revenue Report",
+    "content": "Operating Costs: R&D expenditure increased to $3.2 billion (17.4% of total revenue), primarily driven by GPU cluster expansion (NVIDIA H200 & Blackwell deployment) and AI research talent acquisition.",
+    "category": "Financial Statement",
+    "metadata": {
+      "version": "1.1",
+      "index": 3
+    },
+    "citation_id": "[Global Tech Corp Q4 2025 Financial Statement & Revenue Report \u00a74]"
+  },
+  {
+    "chunk_id": "gt-doc-003-c5",
+    "doc_id": "gt-doc-003",
+    "doc_title": "Global Tech Corp Q4 2025 Financial Statement & Revenue Report",
+    "content": "Capital Allocation: Board of Directors approved an additional $10.0 billion share repurchase program and declared a quarterly dividend of $0.45 per share.",
+    "category": "Financial Statement",
+    "metadata": {
+      "version": "1.1",
+      "index": 4
+    },
+    "citation_id": "[Global Tech Corp Q4 2025 Financial Statement & Revenue Report \u00a75]"
+  },
+  {
+    "chunk_id": "gt-doc-004-c1",
+    "doc_id": "gt-doc-004",
+    "doc_title": "Quantum Computing Architecture & QPU Specs 2026",
+    "content": "SuperQ-1000 Transmon Qubit Quantum Processor Architecture Manual. Processor Specs: 1,152 physical superconducting transmon qubits operating at 15 millikelvin in a dilution refrigerator. Gate Fidelities: Single-qubit gate fidelity average is 99.94%. Two-qubit CZ gate fidelity average is 99.62% with readout fidelity of 99.1%.",
+    "category": "Tech Specs",
+    "metadata": {
+      "version": "3.0",
+      "index": 0
+    },
+    "citation_id": "[Quantum Computing Architecture & QPU Specs 2026 \u00a71]"
+  },
+  {
+    "chunk_id": "gt-doc-004-c2",
+    "doc_id": "gt-doc-004",
+    "doc_title": "Quantum Computing Architecture & QPU Specs 2026",
+    "content": "Coherence Times: T1 relaxation time averages 280 microseconds; T2 echo phase coherence time averages 320 microseconds. Error Correction Code: Implements surface code (distance d=7), requiring 49 physical qubits per logical qubit, yielding a logical qubit error rate below 10^-6.",
+    "category": "Tech Specs",
+    "metadata": {
+      "version": "3.0",
+      "index": 1
+    },
+    "citation_id": "[Quantum Computing Architecture & QPU Specs 2026 \u00a72]"
+  },
+  {
+    "chunk_id": "gt-doc-004-c3",
+    "doc_id": "gt-doc-004",
+    "doc_title": "Quantum Computing Architecture & QPU Specs 2026",
+    "content": "Control System: Microwave pulse modulation controlled via direct digital synthesis at 4.8 GHz to 6.2 GHz carrier frequencies.",
+    "category": "Tech Specs",
+    "metadata": {
+      "version": "3.0",
+      "index": 2
+    },
+    "citation_id": "[Quantum Computing Architecture & QPU Specs 2026 \u00a73]"
+  },
+  {
+    "chunk_id": "gt-doc-6c7239-c1",
+    "doc_id": "gt-doc-6c7239",
+    "doc_title": "Wikipedia: Quantum computing",
+    "content": "A quantum computer is a computer that represents and processes information using quantum states. Quantum computations exploit phenomena such as superposition, interference, and entanglement. Quantum computers have the potential to complete some calculations exponentially faster than classical computers. For example, a large-scale quantum computer could break widely used encryption schemes and aid physicists in performing physical simulations. However, current hardware implementations of quantum computation are largely experimental and suitable for only certain specialized tasks.",
+    "category": "Wikipedia Live Data",
+    "metadata": {
+      "url": "https://en.wikipedia.org/wiki/Quantum_computing",
+      "source": "Wikipedia REST API"
+    },
+    "citation_id": "[Wikipedia: Quantum computing \u00a71]"
+  },
+  {
+    "chunk_id": "gt-doc-6c7239-c2",
+    "doc_id": "gt-doc-6c7239",
+    "doc_title": "Wikipedia: Quantum computing",
+    "content": "The basic unit of information in quantum computing, the qubit (quantum bit), serves a similar function as the bit in ordinary or \"classical\" computing. Unlike a classical bit, which can be in one of two states (a binary), a qubit can exist in a linear combination of states known as a quantum superposition. The result of measuring a qubit is one of the two states, given by a probabilistic rule. If a quantum computer manipulates the qubit in a particular way, wave interference effects amplify the probability of the desired measurement result. Quantum algorithm design involves creating procedures that allow a quantum computer to perform this amplification.",
+    "category": "Wikipedia Live Data",
+    "metadata": {
+      "url": "https://en.wikipedia.org/wiki/Quantum_computing",
+      "source": "Wikipedia REST API"
+    },
+    "citation_id": "[Wikipedia: Quantum computing \u00a72]"
+  },
+  {
+    "chunk_id": "gt-doc-6c7239-c3",
+    "doc_id": "gt-doc-6c7239",
+    "doc_title": "Wikipedia: Quantum computing",
+    "content": "Quantum computers are not yet practical for real-world applications. If a physical qubit is not sufficiently isolated from its environment, it suffers from quantum decoherence, introducing noise (error) into calculations. Governments have invested in research aimed at developing qubits with longer coherence times and lower error rates. Example implementations include superconductors (which isolate an electrical current by eliminating electrical resistance) and ion traps (which confine a single atomic particle using electromagnetic fields). Researchers have claimed that quantum devices can outperform classical computers on specific tasks, a metric referred to as quantum advantage or quantum supremacy. Such tasks are not necessarily useful for real-world applications. As a result, as of 2026 demonstrations are best understood as scientific milestones rather than evidence for near-term deployment. Global government investment in quantum computing reached $10 billion by April 2025.",
+    "category": "Wikipedia Live Data",
+    "metadata": {
+      "url": "https://en.wikipedia.org/wiki/Quantum_computing",
+      "source": "Wikipedia REST API"
+    },
+    "citation_id": "[Wikipedia: Quantum computing \u00a73]"
+  },
+  {
+    "chunk_id": "gt-doc-d4e01c-c1",
+    "doc_id": "gt-doc-d4e01c",
+    "doc_title": "Test AI Ethics Guidelines",
+    "content": "AI systems must ensure transparency, accountability, fairness, and safety at all times. Hallucination detection is critical for trustworthy AI.",
+    "category": "Policy",
+    "metadata": {
+      "author": "QA Team",
+      "version": "1.0"
+    },
+    "citation_id": "[Test AI Ethics Guidelines \u00a71]"
+  },
+  {
+    "chunk_id": "gt-doc-c72dec-c1",
+    "doc_id": "gt-doc-c72dec",
+    "doc_title": "Test AI Ethics Guidelines",
+    "content": "AI systems must ensure transparency, accountability, fairness, and safety at all times. Hallucination detection is critical for trustworthy AI.",
+    "category": "Policy",
+    "metadata": {
+      "author": "QA Team",
+      "version": "1.0"
+    },
+    "citation_id": "[Test AI Ethics Guidelines \u00a71]"
+  },
+  {
+    "chunk_id": "gt-doc-a873af-c1",
+    "doc_id": "gt-doc-a873af",
+    "doc_title": "Test AI Ethics Guidelines",
+    "content": "AI systems must ensure transparency, accountability, fairness, and safety at all times. Hallucination detection is critical for trustworthy AI.",
+    "category": "Policy",
+    "metadata": {
+      "author": "QA Team",
+      "version": "1.0"
+    },
+    "citation_id": "[Test AI Ethics Guidelines \u00a71]"
+  },
+  {
+    "chunk_id": "gt-doc-e25ac4-c1",
+    "doc_id": "gt-doc-e25ac4",
+    "doc_title": "Test AI Ethics Guidelines",
+    "content": "AI systems must ensure transparency, accountability, fairness, and safety at all times. Hallucination detection is critical for trustworthy AI.",
+    "category": "Policy",
+    "metadata": {
+      "author": "QA Team",
+      "version": "1.0"
+    },
+    "citation_id": "[Test AI Ethics Guidelines \u00a71]"
+  },
+  {
+    "chunk_id": "gt-doc-7cba05-c1",
+    "doc_id": "gt-doc-7cba05",
+    "doc_title": "Test AI Ethics Guidelines",
+    "content": "AI systems must ensure transparency, accountability, fairness, and safety at all times. Hallucination detection is critical for trustworthy AI.",
+    "category": "Policy",
+    "metadata": {
+      "author": "QA Team",
+      "version": "1.0"
+    },
+    "citation_id": "[Test AI Ethics Guidelines \u00a71]"
+  }
+]
